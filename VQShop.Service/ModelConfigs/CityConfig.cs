@@ -8,6 +8,6 @@ namespace VQShop.Service.ModelConfigs
 {
     public class CityConfig
     {
-        public string aa { get; set; }
+        
     }
 }
